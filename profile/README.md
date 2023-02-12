@@ -13,4 +13,4 @@
 
 Fjelldatabasen is an application for montaneros and stravasitos.
 
-One version reachable at -> [Fjelldatabasen Vercel](https://fjelldatabasen-app.vercel.app/).
+One version reachable at -> [Fjelldatabasen](https://main.d2vv2ryumdlqig.amplifyapp.com/).
