@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Fjelldatabasen is an application for montaneros and stravasitos.
+Fjelldatabasen is an application for urban montanaros.
 
 One version reachable at -> [Fjelldatabasen](https://main.d2vv2ryumdlqig.amplifyapp.com/).
