@@ -14,4 +14,4 @@
 ### Fjelldatabasen is an app for strava and mountain enthusiasts.
 </br>
 
-[![Npm](https://raw.githubusercontent.com/fjelldatabasen/.github/master/images/patagonia-square-white-margin.png)](https://main.d1rz7o3vemoq9w.amplifyapp.com/)
+[![Npm](https://raw.githubusercontent.com/fjelldatabasen/.github/master/images/trollveggen-white-sticker.png)](https://main.d1rz7o3vemoq9w.amplifyapp.com/)
